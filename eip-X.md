@@ -2,7 +2,7 @@
 eip: <to be assigned>
 title: <EIP title>
 author: <list of authors' names and optionally, email addresses>
-discussions-to: <email address>
+discussions-to: https://gitter.im/ethereum/topics/topic/5ac8574227c509a774e7901a/eip-reward-full-nodes-and-clients
 status: Draft
 type: <Standards Track (Core, Networking, Interface, ERC)  | Informational | Meta>
 category (*only required for Standard Track): <Core | Networking | Interface | ERC>
